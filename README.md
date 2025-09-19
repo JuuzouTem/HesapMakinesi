@@ -4,14 +4,14 @@ Question:
 
 Ali, bit pazarından aldığı eski bir hesap makinesinin bazı işlemleri farklı sonuçlarla gösterdiğini fark eder. Makineyi bir süre kullanan Ali, makinenin kendine özgü bir çalışma prensibi olduğunu keşfeder. Ali'nin yaptığı bazı denemeler ve ekranda gördüğü sonuçlar aşağıda verilmiştir:
 
-5 + 20 işleminin sonucu 14
-5 - 20 işleminin sonucu -14
+5 + 20 işleminin sonucu 14,
+5 - 20 işleminin sonucu -14,
 5 * 20 işleminin sonucu 70
 
 Ali, negatif sayılarla deneme yaptığında ise ilginç bir durumla karşılaşır:
 
-(-5) + (-20) işleminin sonucu -25
-(-5) - (-20) işleminin sonucu 15
+(-5) + (-20) işleminin sonucu -25,
+(-5) - (-20) işleminin sonucu 15,
 (-5) * (-20) işleminin sonucu 100
 
 Ali, bu üç işlemin sonucunun matematiksel olarak doğru olduğunu görür.
